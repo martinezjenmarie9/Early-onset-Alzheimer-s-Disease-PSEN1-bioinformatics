@@ -30,8 +30,11 @@
 
 ### Gene Structure Analysis (`PSEN1`)
  **a. Number of exons:** 10 to 12 distinct exon blocks identified in the selected transcript model (12 total exons, 10 protein-coding).
+ 
  **b. Multiple transcripts visible:** Multiple transcript isoforms are visible stacked near the top of the RefSeq gene tracks.
+ 
  **c. Difference between exon and intron:** Exons are sequences retained in the mature mRNA that code for proteins or form UTRs, whereas introns are intervening sequences that are transcribed into pre-mRNA but spliced out prior to translation.
+ 
  **d. Intron vs. Exon length:** The introns generally appear much longer than the exons, represented by long connecting lines spanning wide genomic distances between narrow exon blocks.
 
 ### Required Proof: Screenshot 2
@@ -42,10 +45,14 @@
 ## Part D: Turn On and Examine Genome Browser Tracks
 
 ### Track Analysis Answers (PSEN1)
- **a. Gene annotation track used:** NCBI RefSeq and MANE Select Plus Clinical[cite: 6].
+ **a. Gene annotation track used:** NCBI RefSeq and MANE Select Plus Clinical.
+ 
  **b. ClinVar-related variant marks visible:** Multiple ClinVar variant marks are distributed across the PSEN1 gene region.
+ 
  **c. Differential conservation:** Certain genomic positions display high conservation peaks while others remain low.
+ 
  **d. Region correspondence:** The high conservation peaks correspond primarily to the coding exons.
+ 
  **e. Biological importance of conservation:** Strong sequence conservation across multiple vertebrate species implies that natural selection has actively preserved the sequence over millions of years of evolution. If a genomic region or residue can change very little without harming the organism, it typically indicates that it serves a vital functional role, such as coding for essential amino acids or maintaining structural and regulatory integrity.
 
 ### Required Proof: Screenshot 3
@@ -56,11 +63,17 @@
 ## Part E: Select One Variant in NCBI ClinVar
 
 ### Selected Variant Details (PSEN1)
+
  **Variant Identifier / Variation ID:** 18143
+ 
  **HGVS Name / Protein Change:** G206A, G202A
+ 
  **Clinical Classification:** Pathogenic
+ 
  **Associated Condition:** Early-Onset Familial Alzheimer's Disease
+ 
  **Review Status:** Criteria provided, multiple submitters (2 stars)
+ 
  **ClinVar Page URL:** [https://www.ncbi.nlm.nih.gov/clinvar/variation/18143/]
 
 ### Required Proof: Screenshot 4
@@ -71,10 +84,15 @@
 ## Part F: Find Your Selected Variant Back in UCSC
 
 ### Variant Mapping Analysis (p.Gly206Ala / Variation ID: 18143)
+
  **a. Relative location:** Situated internally within the *PSEN1* gene span on chromosome 14.
+ 
  **b. Region type:** Exon
+ 
  **c. Coding vs. Non-coding:** Coding region (missense substitution resulting in an amino acid change).
+ 
  **d. Potential functional effect:** The substitution alters a conserved domain within the Presenilin-1 protein, disrupting normal proteolytic processing and driving early-onset Alzheimer's disease pathogenesis.
+ 
  **e. Additional evidence needed:** Functional enzyme assays, multi-generation family co-segregation studies, and biochemical validation.
 
 ### Required Proof: Screenshot 5
