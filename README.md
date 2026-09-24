@@ -8,11 +8,17 @@
 
 ### Gene Details
  **a. Official gene symbol:** PSEN1
+
  **b. Full gene name:** Presenilin 1
+ 
  **c. Chromosome:** Chromosome 14 (chr14)
+ 
  **d. Genome assembly used:** GRCh38/hg38
+ 
  **e. Genomic coordinates shown in UCSC:** chr14:73,136,507-73,223,691
+ 
  **f. DNA strand (+ or -):** + (Forward strand)
+ 
  **g. Approximate gene size or length:** ~87 kb (87,185 bp)
 
 ### Required Proof: Screenshot 1
