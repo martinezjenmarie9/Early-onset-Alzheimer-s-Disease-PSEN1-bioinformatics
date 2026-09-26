@@ -21,11 +21,6 @@
  
  **g. Approximate gene size or length:** ~87 kb (87,185 bp)
 
-### Required Proof: Screenshot 1
-*UCSC Genome Browser view of `PSEN1` displaying the gene structure, coordinate ruler, and chromosome details.*
-
-![PSEN1 UCSC Genome Browser View](image_110d42.png)
-
 ## Part C: Understand the Gene Structure: Exons, Introns, and Transcripts
 
 ### Gene Structure Analysis (`PSEN1`)
@@ -36,11 +31,6 @@
  **c. Difference between exon and intron:** Exons are sequences retained in the mature mRNA that code for proteins or form UTRs, whereas introns are intervening sequences that are transcribed into pre-mRNA but spliced out prior to translation.
  
  **d. Intron vs. Exon length:** The introns generally appear much longer than the exons, represented by long connecting lines spanning wide genomic distances between narrow exon blocks.
-
-### Required Proof: Screenshot 2
-*UCSC Genome Browser view displaying `PSEN1` gene structure, transcripts, and functional tracks.*
-
-![PSEN1 Gene Structure View](image_10b3fc.png)
 
 ## Part D: Turn On and Examine Genome Browser Tracks
 
@@ -54,11 +44,6 @@
  **d. Region correspondence:** The high conservation peaks correspond primarily to the coding exons.
  
  **e. Biological importance of conservation:** Strong sequence conservation across multiple vertebrate species implies that natural selection has actively preserved the sequence over millions of years of evolution. If a genomic region or residue can change very little without harming the organism, it typically indicates that it serves a vital functional role, such as coding for essential amino acids or maintaining structural and regulatory integrity.
-
-### Required Proof: Screenshot 3
-*UCSC Genome Browser view showing `PSEN1` with enabled ClinVar variant tracks and the 100 Vertebrates Conservation track.*
-
-![PSEN1 Tracks View](image_1028e1.png)
 
 ## Part E: Select One Variant in NCBI ClinVar
 
@@ -76,11 +61,6 @@
  
  **ClinVar Page URL:** [https://www.ncbi.nlm.nih.gov/clinvar/variation/18143/]
 
-### Required Proof: Screenshot 4
-*UCSC Genome Browser zoomed-in view locating the pathogenic variant `p.Gly206Ala` (Variation ID: 18143) on chromosome 14.*
-
-![PSEN1 ClinVar Variant View](image_filename.png)
-
 ## Part F: Find Your Selected Variant Back in UCSC
 
 ### Variant Mapping Analysis (p.Gly206Ala / Variation ID: 18143)
@@ -94,11 +74,6 @@
  **d. Potential functional effect:** The substitution alters a conserved domain within the Presenilin-1 protein, disrupting normal proteolytic processing and driving early-onset Alzheimer's disease pathogenesis.
  
  **e. Additional evidence needed:** Functional enzyme assays, multi-generation family co-segregation studies, and biochemical validation.
-
-### Required Proof: Screenshot 5
-*UCSC Genome Browser view displaying the selected variant mapped accurately to the exon structure of the PSEN1 gene model[cite: 5].*
-
-![PSEN1 Variant Position View](image_0543b3.png)
 
 ## Part G. Short Reflection
 
